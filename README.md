@@ -1,4 +1,4 @@
-# Amazon Reviews Pipeline - Frozen Version
+# NLP Pipeline - Frozen Version
 
 This is a frozen version of the Amazon Reviews NLP pipeline for archive paper submission.
 
